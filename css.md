@@ -1,5 +1,12 @@
 # CSS
 
+## Notes to share
+1. [Priority](https://github.com/ssomac/cheatsheet/blob/master/css.md#cascade-priority)
+1. [inheritance](https://github.com/ssomac/cheatsheet/blob/master/css.md#inheritance)
+1. [Box Model](https://github.com/ssomac/cheatsheet/blob/master/css.md#box-model)
+1. [Type of Boxes](https://github.com/ssomac/cheatsheet/blob/master/css.md#type-of-boxes---display-property)
+1. [Flexbox](https://github.com/ssomac/cheatsheet/blob/master/css.md#flexbox)
+
 ## Shorthand
 
 * font
