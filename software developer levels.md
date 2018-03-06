@@ -42,7 +42,7 @@ Level-4 engineers are architects who can evaluate system-wide platform decisions
 
 Some Other Reference
 
-[gilt](http://tech.gilt.com/leadership/2018/01/24/career-structure)
-[Rent the Runway](https://docs.google.com/document/d/1SxmQBrDZvj16veuc2OVO0wUX7a7vEKPM-57dNLXhuEk/edit)
-[Foursquare](https://docs.google.com/spreadsheets/d/1k4sO6pyCl_YYnf0PAXSBcX776rNcTjSOqDxZ5SDty-4/edit#gid=0)
-[Fog Creek (Joel on Software)](https://www.joelonsoftware.com/2009/02/13/fog-creek-professional-ladder/)
+* [gilt](http://tech.gilt.com/leadership/2018/01/24/career-structure)
+* [Rent the Runway](https://docs.google.com/document/d/1SxmQBrDZvj16veuc2OVO0wUX7a7vEKPM-57dNLXhuEk/edit)
+* [Foursquare](https://docs.google.com/spreadsheets/d/1k4sO6pyCl_YYnf0PAXSBcX776rNcTjSOqDxZ5SDty-4/edit#gid=0)
+* [Fog Creek (Joel on Software)](https://www.joelonsoftware.com/2009/02/13/fog-creek-professional-ladder/)
